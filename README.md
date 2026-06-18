@@ -41,7 +41,7 @@ This is my personal portfolio website, built to showcase my skills, projects, an
 
   ## 👤 Author
 John Mitchell  
-Aspiring Full-Stack Developer
+Customer-focused technology professional transitioning into software development, bringing experience in troubleshooting, data management, business systems and user support. 
 
 ## 🎯 Project Goals
 - Build a personal brand
